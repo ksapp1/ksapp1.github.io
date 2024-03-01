@@ -11112,7 +11112,7 @@ body {
 }
 
 .about-section {
-  padding-top: 5rem;
+  padding-top: 1rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
@@ -11120,10 +11120,10 @@ body {
 }
 
 .projects-section {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
 .projects-section .featured-text {
-  padding: 2rem;
+  padding: 1rem;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
@@ -11132,12 +11132,12 @@ body {
   }
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 1rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 1rem;
   }
 }
 
@@ -11199,5 +11199,5 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
